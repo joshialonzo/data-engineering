@@ -8,3 +8,4 @@
 ## MLOps
 
 * [MLOps: Fundamentals of CI/CD and Model Deployment](mlops_fundamentals_ci_cd_model_deployment/README.md)
+* [Introduction to Data Engineering on AWS: Data Sourcing and Storage](introduction_to_data_engineering_on_aws/README.md)
