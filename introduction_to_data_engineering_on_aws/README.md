@@ -10,7 +10,7 @@
 
 ## The Data Science Hierarchy of Needs
 
-From the bottom (1) to the top ().
+From the bottom (1) to the top (6).
 
 1. **Data Collection**: The process of gathering data from various sources, such as databases, APIs, and streaming platforms.
 2. **Data Storage/Moving**: The process of storing collected data in a structured and organized manner, such as in data warehouses or data lakes.
@@ -23,3 +23,9 @@ From the bottom (1) to the top ().
 
 * Data Engineering is in the intersection between Software Engineering, Business, and Analytics.
 * These are specialities: Data Infrastructure, Data Mining, Data Warehousing, Data Crunching, Data Modeling, and Metadata Engineering.
+
+## Data Types
+
+* Structured Data -> SQL Databases
+* Semi-Structured -> XML, JSON, CSV, Non-SQL
+* Unstructured -> Videos, Images, Books, Text
