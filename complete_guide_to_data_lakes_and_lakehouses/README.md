@@ -72,3 +72,14 @@ The data lake foundation.
 * Processing Layer: Transforms and aggregates data, applying business rules to prepare data for analysis, supporting both batch and real-time processing.
 * Management and Governance Layer: Ensures data security, organization, metadata management, and compliance with regulations.
 * Analytics Layer: Provides tools for querying, visualizing, and analyzing data efficiently, making data actionable for users.
+
+## Data Warehouse
+
+A data warehouse is a system designed for reporting and data analysis, serving as a core part of business intelligence. It stores current and historical data in a single place, organizing it in a highly structured way using tables, rows, and columns with a defined schema. This structure enables fast and complex SQL queries, making it ideal for generating reports and supporting decision-making. Unlike data lakes, data warehouses require data to be cleaned and transformed before or after storage to ensure quality and consistency.
+
+### Data Lake vs Data Warehouses
+
+* Data Structure: Data warehouses store highly structured data using predefined schemas (tables, rows, columns), enabling fast SQL queries. Data lakes store raw data without predefined schemas, applying structure only when data is read.
+* Data Processing: Data warehouses require data to be cleaned and transformed before or after storage to ensure quality and consistency. Data lakes ingest raw data quickly with minimal upfront processing, offering flexibility but needing more processing power during analysis.
+* Storage Technology and Cost: Data warehouses use optimized relational database systems, while data lakes often rely on scalable, cost-effective technologies like Hadoop or cloud object storage (e.g., Amazon S3).
+* Use Cases: Data warehouses are ideal for business intelligence, reporting, and decision-making. Data lakes are better suited for exploratory data analysis, machine learning, and AI applications.
