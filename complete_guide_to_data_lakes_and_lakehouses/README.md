@@ -64,3 +64,11 @@ The data lake foundation.
 
 * This is another key factor in the rise of data lakes.
 * By centralizing data storage, data lakes enable a collaborative environment.
+
+## Architecture Core Components
+
+* Storage Layer: The foundation that holds massive amounts of raw data in various formats, designed to be scalable, cost-effective, and support multiple data types.
+* Ingestion Layer: Responsible for reliably collecting data from diverse sources in real-time or batches, handling high volumes and speeds.
+* Processing Layer: Transforms and aggregates data, applying business rules to prepare data for analysis, supporting both batch and real-time processing.
+* Management and Governance Layer: Ensures data security, organization, metadata management, and compliance with regulations.
+* Analytics Layer: Provides tools for querying, visualizing, and analyzing data efficiently, making data actionable for users.
