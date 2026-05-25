@@ -43,3 +43,24 @@ It is a centralized repository that allows you to store all of your structured a
 * Data Science and Machine Learning
 * Artifial Intelligence
 * Real-Time Analytics
+
+## Hadoop
+
+### Definition
+
+The data lake foundation.
+
+### Key Characteristics
+
+* Inspired by Google MapReduce and Google File System.
+* Designed to store and process huge amounts of data across distributed clusters.
+* Democratized raw data storage.
+* Conceptual beginning of the data lake.
+* Closely tied to the advancement of cloud computing.
+* AWS, Azure, and GC became robust and the perfect ecosystem for data lakes.
+* Cloud platforms offered scalable, secure, and cost effective storage.
+
+### Data Democratization
+
+* This is another key factor in the rise of data lakes.
+* By centralizing data storage, data lakes enable a collaborative environment.
