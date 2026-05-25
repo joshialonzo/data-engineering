@@ -92,3 +92,5 @@ A data mesh is a modern data architecture approach that treats data as a product
 * Governance: Data lakes are centrally governed by data engineering teams managing access, security, and quality. Data mesh decentralizes governance, with domain-specific teams owning and managing their data as a product.
 * Architecture: Data lakes are centralized repositories storing vast amounts of raw and structured data in one place. Data mesh promotes a decentralized architecture where different teams may use different storage or processing systems based on their needs.
 * Use Cases: Data lakes suit organizations needing centralized data storage for analytics. Data mesh fits large, distributed organizations with complex data domains, enabling agile, autonomous data management by specialized teams.
+
+## [Storage in Data Lakes](storage_in_data_lakes.md)
