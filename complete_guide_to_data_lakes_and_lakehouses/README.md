@@ -20,3 +20,26 @@ We will be using the "Medallion Architecture":
 1. Bronze
 2. Silver
 3. Gold
+
+## Data Lake
+
+### Definition
+
+It is a centralized repository that allows you to store all of your structured and unstructured data at any scale.
+
+### Key Characteristics
+
+* Scalability
+    * Can store petabytes of data
+* Cost Effectiveness
+    * Object storage costs less than traditional storage
+* Flexibility
+    * Can hold diverse data formats
+* Accesibility
+    * Centralized data storage
+
+### When to use
+
+* Data Science and Machine Learning
+* Artifial Intelligence
+* Real-Time Analytics
