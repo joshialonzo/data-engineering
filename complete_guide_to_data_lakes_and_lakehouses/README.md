@@ -83,3 +83,15 @@ A data warehouse is a system designed for reporting and data analysis, serving a
 * Data Processing: Data warehouses require data to be cleaned and transformed before or after storage to ensure quality and consistency. Data lakes ingest raw data quickly with minimal upfront processing, offering flexibility but needing more processing power during analysis.
 * Storage Technology and Cost: Data warehouses use optimized relational database systems, while data lakes often rely on scalable, cost-effective technologies like Hadoop or cloud object storage (e.g., Amazon S3).
 * Use Cases: Data warehouses are ideal for business intelligence, reporting, and decision-making. Data lakes are better suited for exploratory data analysis, machine learning, and AI applications.
+
+## Data Mesh
+
+### Definition
+
+A data mesh is a modern data architecture approach that treats data as a product. Instead of centralizing data governance and management in one team, it decentralizes ownership to domain-specific teams who manage their own data. This ensures the data is accessible, high-quality, and valuable across the organization. Unlike a centralized data lake, data mesh promotes a decentralized architecture where different teams may use different storage or processing systems based on their needs. This approach is especially useful for large, distributed organizations with complex data across multiple business domains, enabling agile and autonomous data management by specialized teams.
+
+### Data Lake vs Data Mesh
+
+* Governance: Data lakes are centrally governed by data engineering teams managing access, security, and quality. Data mesh decentralizes governance, with domain-specific teams owning and managing their data as a product.
+* Architecture: Data lakes are centralized repositories storing vast amounts of raw and structured data in one place. Data mesh promotes a decentralized architecture where different teams may use different storage or processing systems based on their needs.
+* Use Cases: Data lakes suit organizations needing centralized data storage for analytics. Data mesh fits large, distributed organizations with complex data domains, enabling agile, autonomous data management by specialized teams.
