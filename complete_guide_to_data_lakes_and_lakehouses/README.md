@@ -12,3 +12,11 @@
 * Dagster: Data Orchestration
 * Apache Superset: analytics and visualization
 * LangChain and Chroma: Advanced Gererative AI applications
+
+## Architecture
+
+We will be using the "Medallion Architecture":
+
+1. Bronze
+2. Silver
+3. Gold
