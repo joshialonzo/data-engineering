@@ -25,30 +25,27 @@ We will be using the "Medallion Architecture":
 
 ### Definition
 
-It is a centralized repository that allows you to store all of your structured and unstructured data at any scale.
+A Data Lake is a centralized repository designed to store a vast amount of structured and unstructured data. It allows for the storage of data at any scale and in its native format, which can be used for various types of analytics such as real-time analytics, machine learning, and artificial intelligence.
 
 ### Key Characteristics
 
-* Scalability
-    * Can store petabytes of data
-* Cost Effectiveness
-    * Object storage costs less than traditional storage
-* Flexibility
-    * Can hold diverse data formats
-* Accesibility
-    * Centralized data storage
+* Scalability: Data Lakes can efficiently handle and store vast amounts of data—up to petabytes and beyond—without significant performance issues.
+* Cost-effectiveness: Leveraging object storage, Data Lakes provide a more affordable solution for storing large data volumes, compared to traditional storage methods.
+* Flexibility: Data can be stored in various formats including logs, XML, JSON, images, and more, sourced from diverse origins.
+* Accessibility: Centralized data storage in Data Lakes facilitates easier access for data scientists and analysts, enhancing their ability to derive insights quickly using integrated tools.
 
-### When to use
+### Use Cases
 
-* Data Science and Machine Learning
-* Artifial Intelligence
-* Real-Time Analytics
+* Data science and machine learning: Serve as foundational platforms for handling diverse data formats essential for developing sophisticated models
+* Artificial intelligence: Enable the training of more effective AI models by managing large sets of varied data
+* Real-time analytics: Support immediate data processing needs, helping businesses swiftly respond to market dynamics
+* Evolution of Data Lakes
 
 ## Hadoop
 
 ### Definition
 
-The data lake foundation.
+From the digital data explosion in the late 1990s and early 2000s, the advent of big data brought challenges that traditional data systems couldn't handle, leading to the development of Hadoop and subsequently the concept of data lakes. This evolution was closely tied to advancements in cloud computing, which further facilitated the adoption of data lakes by providing scalable, secure, and cost-effective storage solutions.
 
 ### Key Characteristics
 
